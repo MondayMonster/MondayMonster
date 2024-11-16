@@ -9,7 +9,7 @@
 
 ### 🌐 &nbsp; Start-ups Experiences 
 
-- [LOOKOUT]((https://www.getalookout.com/))
+- [LOOKOUT](https://www.getalookout.com/)
 - [Tesseract](https://jiotesseract.com/)
 - [Ethosh](https://www.ethosh.com/)
 
