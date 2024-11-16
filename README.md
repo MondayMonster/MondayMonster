@@ -7,7 +7,7 @@
 - 🤔 &nbsp; I like developing new technologies and software solutions to tackle today’s tech challenges
 - 🎓 &nbsp; I'm a Computer Science Masters student at Northeastern University
 
-### 🌐 &nbsp; Start-ups Experiences 
+### 🌐 &nbsp; Start-up Experiences 
 
 - [LOOKOUT](https://www.getalookout.com/)
 - [Tesseract](https://jiotesseract.com/)
