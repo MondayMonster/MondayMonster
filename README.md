@@ -74,9 +74,9 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sanjanadumpala" target="_blank"><img src="https://img.shields.io/badge/-Sanjana%20Dumpala-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dumpala@usc.edu" target="_blank"><img src="https://img.shields.io/badge/-dumpala@usc.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://dev.to/sanjanadumpala" target="_blank"><img src="https://img.shields.io/badge/-Sanjana%20Dumpala-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/siddhant-narode/" target="_blank"><img src="https://img.shields.io/badge/-Siddhant%20Narode-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:narode.s@northeastern.edu" target="_blank"><img src="https://img.shields.io/badge/-narode.s@northeastern.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="http://narode-exe.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Siddhant%20Narode-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
 <br />
 <br />  
 Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!
