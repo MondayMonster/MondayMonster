@@ -31,7 +31,7 @@ Beyond XR, I build scalable web applications and RESTful services using modern J
 ---
 
 ### 🌐 &nbsp;Start-up & Collaborative Experiences  
-- [LOOKOUT](https://www.getalookout.com/) – Augmented Reality Situaltional Awareness for Automous Boats
+- [LOOKOUT](https://www.getalookout.com/) – Augmented Reality Situational Awareness for Autonomous
 - [Tesseract](https://jiotesseract.com/) – SDK development for Indie Mixed Reality Google (Jio Glass)
 - [Ethosh](https://www.ethosh.com/) – Training and Simulation application for Med Tech
 
