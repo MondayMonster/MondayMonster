@@ -3,7 +3,7 @@
 
 ### 💻 &nbsp;About Me  
 - 🤔 &nbsp; Passionate about **XR/AR/VR** development and crafting immersive experiences
-- 🏆 &nbsp; **MIT Reality Hack Winner (Qualcomm Track Special Mention)**  
+- 🏆 &nbsp; **MIT Reality Hack Winner 2025 (Qualcomm Track Special Mention)**  
 - 🎓 &nbsp; Computer Science M.S. candidate at Northeastern University  
 - 🔭 &nbsp; Actively building **Unity**-based XR prototypes and full-stack web apps  
 
